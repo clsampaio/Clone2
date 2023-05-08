@@ -1,0 +1,121 @@
+body{
+    background-color: #000;
+}
+
+COMEÇO
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.letra{
+    color: #fff;
+    font-family: 'Roboto';
+    position: absolute;
+    left: 605px;
+    top: 10px;
+}
+
+.icone{
+    color: rgb(61, 113, 224);
+}
+
+.icone1{
+    color: #fff;
+    position: absolute;
+    left: 1020px;
+    top: 26px;
+}
+
+.icone2{
+    color: #fff;
+    position: absolute;
+    left: 1020px;
+    top: 105px;
+}
+
+.foto{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 610px;
+    top: 90px;
+}
+
+.frase{
+    color: #fff;
+    font-family: 'Roboto';
+    position: absolute;
+    left: 677px;
+    top: 80px;
+}
+
+.frase2{
+    color: #fff;
+    font-family: 'Roboto';
+    position: absolute;
+    left: 676px;
+    top: 100px;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.frase3{
+    color: #fff;
+    font-family: 'Roboto';
+    position: absolute;
+    left: 730px;
+    top: 236px;
+
+}
+
+.frase4{
+    color: #fff;
+    font-family: 'Roboto';
+    position: absolute;
+    left: 692px;
+    top: 272px;
+}
+
+.emoji{
+    position: absolute;
+    left: 690px;
+    top: 310px;
+}
+
+.foto2{
+    border-radius: 100px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 250px;
+    left: 690px;
+}
+
+.foto3{
+    position: absolute;
+    left: 690px;
+    top: 330px;
+}
+
+.icone4{
+    color: #fff;
+    position: absolute;
+    left: 700px;
+    top: 796px;
+}
+
+.plv{
+    color: #fff;
+    position: absolute;
+    left: 730px;
+    top: 795px;
+}
+
+
